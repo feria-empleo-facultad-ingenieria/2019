@@ -15,6 +15,14 @@ companies:
   abstract: Alstom knows that employee empowerment is crucial to its success and continues to strengthen its culture by promoting diversity and entrepreneurial spirit with a fundamental commitment to integrity and high ethical business standards and practices.
   stand: S/A
 
+- siteurl: https://www.aspentech.com/en/careers
+  logourl: images/companies/aspentech.png
+  name: Aspentech
+  carreras: TODAS LAS CARRERAS
+  teaser: While our impact on the world is big, we offer many of the advantages of a smaller organization.
+  abstract: While our impact on the world is big, we offer many of the advantages of a smaller organization. Every employee has a real opportunity to make important contributions that directly benefit our customers and drive our success.
+  stand: S/A
+
 - siteurl: https://www.audi.com/corporate/en/careers.html
   logourl: images/companies/audi.png
   name: Audi
@@ -38,7 +46,7 @@ companies:
   teaser: We are searching for the best talent, yours. We want to share 
   abstract: We are searching for the best talent, yours. We want to share with you the values that makes us strong and allow us to keep creating opportunities through empathy and integrity, while thinking big and always putting the customer first. We are looking for committed professionals who work as one team, like you.
   stand: S/A
- 
+
 - siteurl: http://www.ciadetalentos.com.mx/
   logourl: images/companies/ciatalentos.jpg
   name: Cia de Talentos
@@ -46,7 +54,15 @@ companies:
   teaser: Conectamos a los mejores talentos con las mejores oportunidades
   abstract: Conectamos a los mejores talentos con las mejores oportunidades, y desarrollamos tanto empresas como personas para que alcancen, todos los días, la mejor versión de sí mismos. El Grupo Cia de Talentos es mucho más que una consultora de selección y desarrollo somos una empresa de educación para la carrera. Creemos en el potencial de todos en cada uno siempre existe un talento capaz de transformar y movilizar a las empresas y a la sociedad. Para eso trabajamos.
   stand: S/A
- 
+
+- siteurl: https://www.corning.com/worldwide/en/careers.html
+  logourl: images/companies/corning.png
+  name: Corning
+  carreras: TODAS LAS CARRERAS
+  teaser: Our culture creates a caring and considerate work environment, offering empowerment, flexibility, collaboration, recognition, and respect.
+  abstract: Our culture creates a caring and considerate work environment, offering empowerment, flexibility, collaboration, recognition, and respect. It’s a culture of learning and innovation, where mentoring and being mentored go hand-in-hand. Our leaders are always approachable and value the contributions of every employee
+  stand: S/A
+
 - siteurl: https://jobs2.deloitte.com/mx/es?icid=top_job-search&amp;id=mx
   logourl: images/companies/deloitte.jpg
   name: Deloitte
@@ -95,20 +111,20 @@ companies:
   abstract: El pensamiento emprendedor es parte de nuestra identidad. Únete a nuestros equipos diversos y globales y comienza cada día convirtiendo tus ideas en realidad. Puedes elegir entre innumerables oportunidades y desarrollar tu carrera al mismo tiempo que das forma activamente a las marcas y tecnologías de Henkel.
   stand: S/A
  
-- siteurl: https://www-05.ibm.com/employment/mx-es/?lnk=mca_mxes
-  logourl: images/companies/ibm.jpg
-  name: IBM
-  carreras: Computación, Telecomunicaciones
-  teaser: En IBM, el trabajo es más que un empleo, es una llamada. A construir. Diseñar. Crear código. Consultar. 
-  abstract: En IBM, el trabajo es más que un empleo, es una llamada. A construir. Diseñar. Crear código. Consultar. Pensar junto con los clientes y vender. Crear mercados. Inventar. Colaborar. No solo hacer algo mejor, sino intentar cosas que usted nunca pensó que fueran posibles. Liderar en esta nueva era de tecnología y resolver algunos de los problemas más desafiantes del mundo. Hagamos que la inteligencia trabaje.
-  stand: S/A
-
 - siteurl: http://career.huawei.com/reccampportal/#campus4/content.html
   logourl: images/companies/huawei.png
   name: Huawei
   carreras: TODAS LAS CARRERAS
   teaser: Heroes may come from anywhere. Everyone who makes a contribution should be rewarded
   abstract: Heroes may come from anywhere. Everyone who makes a contribution should be rewarded. Come and experience customer centricity and inspiring dedication, and build a Better Connected World with us
+  stand: S/A
+
+- siteurl: https://www-05.ibm.com/employment/mx-es/?lnk=mca_mxes
+  logourl: images/companies/ibm.jpg
+  name: IBM
+  carreras: Computación, Telecomunicaciones
+  teaser: En IBM, el trabajo es más que un empleo, es una llamada. A construir. Diseñar. Crear código. Consultar. 
+  abstract: En IBM, el trabajo es más que un empleo, es una llamada. A construir. Diseñar. Crear código. Consultar. Pensar junto con los clientes y vender. Crear mercados. Inventar. Colaborar. No solo hacer algo mejor, sino intentar cosas que usted nunca pensó que fueran posibles. Liderar en esta nueva era de tecnología y resolver algunos de los problemas más desafiantes del mundo. Hagamos que la inteligencia trabaje.
   stand: S/A
 
 - siteurl: https://www.ica.com.mx/ica-fluor
