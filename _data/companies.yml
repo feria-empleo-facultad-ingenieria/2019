@@ -71,6 +71,14 @@ companies:
   abstract: GAYA es una historia de crecimiento sostenido, madurez institucional y orientación al cliente, cimentada en la solidez financiera de la empresa. Nuestros clientes cuentan con el respaldo de fianzas y garantías ofrecidas directamente por GAYA, del uso de tecnología de punta y de nuestra experiencia en campo para temas de sustentabilidad LEED® y procesos certificados de Lean Construction.
   stand: S/A
    
+- siteurl: https://www.gm.com.mx/corporativo/empleo_gm/
+  logourl: images/companies/gm.png
+  name: General Motors
+  carreras: TODAS LAS CARRERAS
+  teaser: Conoce nuestras áreas de desarrollo y encuentra información acerca de nuestro proceso de selección.
+  abstract: Conoce nuestras áreas de desarrollo y encuentra información acerca de nuestro proceso de selección. Aquí podrás registrarte y aplicar a las oportunidades de empleo disponibles.
+  stand: S/A
+
 - siteurl: https://www.goldcorp.com/English/home/default.aspx
   logourl: images/companies/goldcorp.png
   name: Goldcorp 
