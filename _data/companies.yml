@@ -56,7 +56,7 @@ companies:
   stand: S/A
 
 - siteurl: https://www.corning.com/worldwide/en/careers.html
-  logourl: images/companies/corning.png
+  logourl: images/companies/corning.jpg
   name: Corning
   carreras: TODAS LAS CARRERAS
   teaser: Our culture creates a caring and considerate work environment, offering empowerment, flexibility, collaboration, recognition, and respect.
@@ -78,9 +78,17 @@ companies:
   teaser: Eltec emplea a más de 250 personas y tiene la certificación ISO-9000.
   abstract: Eltec emplea a más de 250 personas y tiene la certificación ISO-9000. También contamos con certificación CSA y varias patentes.
   stand: S/A
+
+- siteurl: http://www.ensenapormexico.org/sumate-al-staff
+  logourl: images/companies/ensena.png
+  name: Enseña por México
+  carreras: TODAS LAS CARRERAS
+  teaser: Conformamos una red de aliados y líderes profesionistas con perfil de excelencia y liderazgo
+  abstract: Conformamos una red de aliados y líderes profesionistas con perfil de excelencia y liderazgo transformacional (Profesionales Enseña por México), comprometidos con el país en impactar de manera directa en el ámbito académico y social, dentro y fuera de las aulas de Educación Básica & Media Superior, y Primera Infancia.
+  stand: S/A
  
 - siteurl: http://www.gaya.mx/
-  logourl: images/companies/gaya.png
+  logourl: images/companies/gaya.jpg
   name: Gaya
   carreras: Ing. Civil
   teaser: GAYA es una historia de crecimiento sostenido, madurez institucional
@@ -110,6 +118,14 @@ companies:
   teaser: El pensamiento emprendedor es parte de nuestra identidad. Únete a nuestros equipos
   abstract: El pensamiento emprendedor es parte de nuestra identidad. Únete a nuestros equipos diversos y globales y comienza cada día convirtiendo tus ideas en realidad. Puedes elegir entre innumerables oportunidades y desarrollar tu carrera al mismo tiempo que das forma activamente a las marcas y tecnologías de Henkel.
   stand: S/A
+
+- siteurl: https://www.honeywell.com/careers
+  logourl: images/companies/honeywell.png
+  name: Honeywell
+  carreras: TODAS LAS CARRERAS
+  teaser: We combine physical products with software solutions to link people and businesses
+  abstract: We combine physical products with software solutions to link people and businesses to the information they need to be more efficient, more productive and more connected.
+  stand: S/A
  
 - siteurl: http://career.huawei.com/reccampportal/#campus4/content.html
   logourl: images/companies/huawei.png
@@ -135,6 +151,14 @@ companies:
   abstract: ICA-Fluor Daniel, S. de R.L. de C.V. (ICA Fluor) es una empresa conjunta formada por el grupo mexicano de construcción e ingeniería ICA y la firma estadounidense de ingeniería, procura, construcción y mantenimiento Fluor Corp. Sus áreas de operación incluyen vías terrestres, puertos y obras marítimas, aeropuertos, agua, energía, obras subterráneas, transporte masivo, edificación social, industria, petróleo y gas, minería, desarrollo inmobiliario y prefabricación. 
   stand: S/A
  
+- siteurl: https://www.inroads.org.mx/
+  logourl: images/companies/inroads.jpg
+  name: Inroads
+  carreras: TODAS LAS CARRERAS
+  teaser: INROADS de México, A.C. es una organización no lucrativa que desde 1996 está dedicada a detectar 
+  abstract: INROADS de México, A.C. es una organización no lucrativa que desde 1996 está dedicada a detectar y formar talento entre jóvenes universitarios de bajos recursos económicos. Ofrecemos un programa de formación integral en alianza con empresas altamente reconocidas impulsando el desarrollo personal y profesional de los jóvenes.
+  stand: S/A
+
 - siteurl: http://www.managementsolutions.com/site/ESP/default.htm
   logourl: images/companies/managementsolutions.jpg
   name: Management Solutions
@@ -160,11 +184,19 @@ companies:
   stand: S/A
  
 - siteurl: http://canalempleo.sacyr.com/
-  logourl: images/companies/sacyr.gif
+  logourl: images/companies/sacyr.jpg
   name: Sacyr
   carreras: TODAS LAS CARRERAS
   teaser: En Sacyr somos una Grupo global, con una fuerte vocación internacional e importantes y
   abstract: En Sacyr somos una Grupo global, con una fuerte vocación internacional e importantes y ambiciosos objetivos. Actualmente llevamos a cabo proyectos innovadores de alto valor en 28 países en los 5 continentes y buscamos continuamente nuevas posibilidades de crecimiento fuera de nuestras fronteras. Trabajamos con un espíritu global en el que la multiculturalidad nos enriquece y creemos que no hay fronteras para el talento.
+  stand: S/A
+
+- siteurl: http://sefi.org.mx/index/nosotros
+  logourl: images/companies/sefi.png
+  name: Sefi
+  carreras: TODAS LAS CARRERAS
+  teaser: El 19 de septiembre de 1962, se fundó la Sociedad de Exalumnos de la Facultad de Ingeniería, A.C. (SEFI)
+  abstract: En respuesta a la invitación del Rector Ignacio Chávez, el 19 de septiembre de 1962, se fundó la Sociedad de Exalumnos de la Facultad de Ingeniería, A.C. (SEFI). La cual tiene como objetivo colaborar moral y materialmente con la Universidad y con la Facultad de Ingeniería, organismos que tienen como fines la docencia, la investigación y la difusión de la cultura. Hoy en día, representa un ejemplo a seguir para toda la comunidad universitaria en apoyo a su Alma Mater.
   stand: S/A
  
 - siteurl: http://www.ternium.com
@@ -174,6 +206,14 @@ companies:
   teaser: La cultura laboral que distingue a Ternium se apoya en la excelencia y la mirada estratégica
   abstract: La cultura laboral que distingue a Ternium se apoya en la excelencia y la mirada estratégica. Por lo tanto, se buscan talentos en los mejores centros educativos y se enfatizan los programas de crecimiento profesional para sostener en el tiempo el alto nivel de técnicos y profesionales.
   stand: S/A
+
+- siteurl: http://www.techint-ingenieria.com/es/carreras
+  logourl: images/companies/techint.png
+  name: Techint
+  carreras: TODAS LAS CARRERAS
+  teaser: Techint Ingeniería y Construcción lo invita a participar de una compañía 
+  abstract: Techint Ingeniería y Construcción lo invita a participar de una compañía en donde cada proyecto es una oportunidad única para crecer y adquirir nuevas experiencias.
+  stand: S/A
  
 - siteurl: http://www.walmartmexico.com.mx/bolsa-de-trabajo-mex-cam.html
   logourl: images/companies/walmart.jpg
@@ -181,6 +221,14 @@ companies:
   carreras: TODAS LAS CARRERAS
   teaser: ¿Qué vas a encontrar cuando te unas a la mayor cadena minorista del mundo?
   abstract: Amamos lo que hacemos. ¿Qué vas a encontrar cuando te unas a la mayor cadena minorista del mundo? La oportunidad de impactar en la comunidad que vives y en la que trabajas, innovar para la próxima generación de clientes y construir una carrera haciendo lo que amas.
+  stand: S/A
+
+- siteurl: http://www.yaxche.mx/
+  logourl: images/companies/yaxche.png
+  name: Yaxche
+  carreras: TODAS LAS CARRERAS
+  teaser: Somos apasionados del desarrollo de software.
+  abstract: Somos apasionados del desarrollo de software.
   stand: S/A
  
 - siteurl: http://www.zuma-ti.com.mx/es/
