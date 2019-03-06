@@ -1,0 +1,43 @@
+<div id="fb-root"></div>
+<script>
+    (function(d, s, id) {
+        var js, fjs = d.getElementsByTagName(s)[0];
+        if (d.getElementById(id)) return;
+        js = d.createElement(s); js.id = id;
+        js.src = "//connect.facebook.net/es_ES/sdk.js#xfbml=1&version=v2.5";
+        fjs.parentNode.insertBefore(js, fjs);
+    }(document, 'script', 'facebook-jssdk'));
+</script>
+<!-- Header
+============================================= -->
+<header class="d-flex sticky-style-2">
+    <div class="container-fluid d-flex">
+        <div class="container d-flex align-items-center flex-row">
+            <!--
+            <div class="col d-block d-md-none encabezado-movil">
+                <div class="row">
+                    <div class="col-9 text-center titulo-aplicacion">USECAD</div>
+                    <div class="escudo col-3 text-right">
+                        <img src="data:image/png;base64,{{ site.data.images.ingenieria2 }}" alt="INGENIERIA">
+                    </div>
+                </div>
+            </div>
+            -->
+            <div class="col d-none d-md-block encabezado-desktop">
+                <div class="row">
+                    <div class="col-md-6 text-left standard-logo1">
+                        <a class="d-inline-block" href="http://www.unam.mx" target="_blank">
+                            <img src="data:image/png;base64,{{ site.data.images.unam }}" alt="UNAM">
+                        </a>
+                        <a class="d-inline-block" href="http://www.ingenieria.unam.mx" target="_blank">
+                            <img src="data:image/png;base64,{{ site.data.images.ingenieria }}" alt="INGENIERÍA">
+                        </a>
+                    </div>
+                    <div class="col-md-6 text-right standard-logo2">
+                        <img src="data:image/png;base64,{{ site.data.images.usecad }}" style="height:120px;" alt="USECAD">
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</header>
