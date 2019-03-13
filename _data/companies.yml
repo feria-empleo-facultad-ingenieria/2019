@@ -78,6 +78,14 @@ companies:
   teaser: Del aprendizaje al liderazgo, esta es tu oportunidad para llevar
   abstract: ¿Estás preparado para aplicar tus conocimientos y experiencias a desafíos nuevos y emocionantes? Del aprendizaje al liderazgo, esta es tu oportunidad para llevar tu carrera al siguiente nivel. Busca una oferta de empleo e inscríbete hoy.
   stand: S/A
+
+- siteurl: http://www.dialogus.com.mx/
+  logourl: images/companies/dialogus.jpg
+  name: Dialogus
+  carreras: TODAS LAS CARRERAS
+  teaser: Somos una firma de consultoría dedicada a construir confianza al interior de nuestros clientes mediante servicios especializados
+  abstract: Somos una firma de consultoría dedicada a construir confianza al interior de nuestros clientes mediante servicios especializados y prácticas de negocio innovadoras generando eficiencias y prosperidad.
+  stand: S/A
  
 - siteurl: https://www.eltec.mx/
   logourl: images/companies/eltec.webp
@@ -182,6 +190,14 @@ companies:
   teaser: Management Solutions es una firma internacional de consultoría, centrada en el asesoramiento
   abstract: Management Solutions es una firma internacional de consultoría, centrada en el asesoramiento de negocio, finanzas, riesgos, organización, tecnología y procesos.
   stand: S/A
+
+- siteurl: https://www.oracle.com/corporate/careers/
+  logourl: images/companies/oracle.png
+  name: Oracle
+  carreras: TODAS LAS CARRERAS
+  teaser: Experience an exciting, rewarding, and impactful career.
+  abstract: Experience an exciting, rewarding, and impactful career. Over the past forty years, Oracle’s mission has been to transform our world for the better through innovative technologies that modernize cities and bridge communities—while changing lives. Join us and allow your passions to fuel our continued innovations.
+  stand: S/A
  
 - siteurl: http://www.probecarios.com/v2/
   logourl: images/companies/probecarios.jpg
@@ -229,6 +245,14 @@ companies:
   carreras: TODAS LAS CARRERAS
   teaser: Techint Ingeniería y Construcción lo invita a participar de una compañía 
   abstract: Techint Ingeniería y Construcción lo invita a participar de una compañía en donde cada proyecto es una oportunidad única para crecer y adquirir nuevas experiencias.
+  stand: S/A
+
+- siteurl: http://towasoftware.com/
+  logourl: images/companies/towa.png
+  name: Towa
+  carreras: TODAS LAS CARRERAS
+  teaser: Towa has devoted over a decade to the research, development and application of engineering processes around the analysis
+  abstract: Towa has devoted over a decade to the research, development and application of engineering processes around the analysis and development of information systems. Our standard for application delivery industrial-grade applications with a maximum 1 defect for 20,000 lines of code.
   stand: S/A
  
 - siteurl: http://www.walmartmexico.com.mx/bolsa-de-trabajo-mex-cam.html
