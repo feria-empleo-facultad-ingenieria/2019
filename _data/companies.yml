@@ -55,6 +55,14 @@ companies:
   abstract: Conectamos a los mejores talentos con las mejores oportunidades, y desarrollamos tanto empresas como personas para que alcancen, todos los días, la mejor versión de sí mismos. El Grupo Cia de Talentos es mucho más que una consultora de selección y desarrollo somos una empresa de educación para la carrera. Creemos en el potencial de todos en cada uno siempre existe un talento capaz de transformar y movilizar a las empresas y a la sociedad. Para eso trabajamos.
   stand: S/A
 
+- siteurl: http://cicm.org.mx/
+  logourl: images/companies/cicm.jpg
+  name: Colegio de Ingenieros Civiles de México
+  carreras: TODAS LAS CARRERAS
+  teaser: El Colegio de Ingenieros Civiles de México, es una Asociación Civil, constituida en términos de Ley
+  abstract: El Colegio de Ingenieros Civiles de México, es una Asociación Civil, constituida en términos de Ley, que se rige por su estatuto y la Ley Reglamentaria del Artículo Quinto Constitucional, que regula el Ejercicio de las Profesiones. Tiene por objeto, asegurar que el ejercicio profesional de la ingeniería civil en México se realice en el más alto plano legal, ético, moral.
+  stand: S/A
+
 - siteurl: https://www.corning.com/worldwide/en/careers.html
   logourl: images/companies/corning.jpg
   name: Corning
@@ -103,13 +111,13 @@ companies:
   abstract: Conoce nuestras áreas de desarrollo y encuentra información acerca de nuestro proceso de selección. Aquí podrás registrarte y aplicar a las oportunidades de empleo disponibles.
   stand: S/A
 
-- siteurl: https://www.goldcorp.com/English/home/default.aspx
-  logourl: images/companies/goldcorp.png
-  name: Goldcorp 
-  carreras: TODAS LAS CARRERAS
-  teaser: Goldcorp es una de las empresas productoras de oro de más rápido crecimiento del mundo
-  abstract: Goldcorp es una de las empresas productoras de oro de más rápido crecimiento del mundo, con operaciones y proyectos en desarrollo localizados en jurisdicciones seguras en distintos puntos del continente americano. Goldcorp, una empresa canadiense con sede en Vancouver, Columbia Británica, emplea a más de 15,000 personas.
-  stand: S/A
+#- siteurl: https://www.goldcorp.com/English/home/default.aspx
+#  logourl: images/companies/goldcorp.png
+#  name: Goldcorp 
+#  carreras: TODAS LAS CARRERAS
+#  teaser: Goldcorp es una de las empresas productoras de oro de más rápido crecimiento del mundo
+#  abstract: Goldcorp es una de las empresas productoras de oro de más rápido crecimiento del mundo, con operaciones y proyectos en desarrollo localizados en jurisdicciones seguras en distintos puntos del continente americano. Goldcorp, una empresa canadiense con sede en Vancouver, Columbia Británica, emplea a más de 15,000 personas.
+#  stand: S/A
  
 - siteurl: http://www.henkel.mx/index.htm
   logourl: images/companies/henkel.jpg
@@ -157,6 +165,14 @@ companies:
   carreras: TODAS LAS CARRERAS
   teaser: INROADS de México, A.C. es una organización no lucrativa que desde 1996 está dedicada a detectar 
   abstract: INROADS de México, A.C. es una organización no lucrativa que desde 1996 está dedicada a detectar y formar talento entre jóvenes universitarios de bajos recursos económicos. Ofrecemos un programa de formación integral en alianza con empresas altamente reconocidas impulsando el desarrollo personal y profesional de los jóvenes.
+  stand: S/A
+
+- siteurl: https://kionetworks.com/trabaja-en-kio
+  logourl: images/companies/kio.png
+  name: kionetworks
+  carreras: TODAS LAS CARRERAS
+  teaser: Somos una empresa fundada en 2002, con capital 100% mexicano. Ofrecemos un amplio portafolio de infraestructuras 
+  abstract: Somos una empresa fundada en 2002, con capital 100% mexicano. Ofrecemos un amplio portafolio de infraestructuras y servicios de tecnologías de información de misión crítica, dentro de los más altos niveles de calidad y procesos internacionales. Contamos con 38 Centros de Datos de alta densidad y disponibilidad, los más modernos y robustos de la región, distribuidos en México, Centroamérica, El Caribe y Europa.
   stand: S/A
 
 - siteurl: http://www.managementsolutions.com/site/ESP/default.htm
