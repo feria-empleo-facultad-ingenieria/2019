@@ -1,8 +1,8 @@
 platicas:
-- conferencista_foto: #
-  conferencista_linkedin: #
+- conferencista_foto: images/companies/gm2.png
+  conferencista_linkedin: General Motors
   conferencista_nombre: Por confirmar
-  conferencia_nombre: Reclutamiento Goldcorp
+  conferencia_nombre: Reclutamiento General Motors
   conferencia_hora: 12:00 a.m. – 2:00 p.m.
   conferencia_lugar: Auditorio Javier Barros Sierra
   conferencia_abstract: Goldcorp es una de las empresas productoras de oro de más rápido crecimiento del mundo.
@@ -28,16 +28,6 @@ platicas:
   conferencia_abstract: En Sacyr somos una Grupo global, con una fuerte vocación internacional e importantes y ambiciosos objetivos.
   conferencia_empresa: Sacyr
   conferencia_fecha: 8 Abril 2019
-
-- conferencista_foto: #
-  conferencista_linkedin: #
-  conferencista_nombre: Por confirmar
-  conferencia_nombre: Reclutamiento Alstom
-  conferencia_hora: 2:00 p.m. – 4:00 p.m.
-  conferencia_lugar: Auditorio Javier Barros Sierra
-  conferencia_abstract: Alstom knows that employee empowerment is crucial to its success
-  conferencia_empresa: Alstom
-  conferencia_fecha: 9 Abril 2019
 
 - conferencista_foto: #
   conferencista_linkedin: #

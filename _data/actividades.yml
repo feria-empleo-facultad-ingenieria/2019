@@ -9,7 +9,7 @@ actividades:
 
 - mes: ABR 
   dia: 8
-  nombre: Reclutamiento Goldcorp
+  nombre: Reclutamiento General Motors
   hora: 12:00 a.m. – 2:00 p.m.
   lugar: a
   recinto: Auditorio Javier Barros Sierra
@@ -25,13 +25,6 @@ actividades:
   dia: 8
   nombre: Reclutamiento Sacyr
   hora: 4:00 p.m. – 6:00 p.m.
-  lugar: a
-  recinto: Auditorio Javier Barros Sierra
-
-- mes: ABR 
-  dia: 9
-  nombre: Reclutamiento Alstom
-  hora: 2:00 p.m. – 4:00 p.m.
   lugar: a
   recinto: Auditorio Javier Barros Sierra
 

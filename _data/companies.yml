@@ -7,13 +7,13 @@ companies:
   abstract: Accenture is a leading global professional services company, providing a broad range of services and solutions in strategy, consulting, digital, technology and operations.
   stand: S/A
 
-- siteurl: https://www.alstom.com/
-  logourl: images/companies/alstom.jpg
-  name: Alstom
-  carreras: TODAS LAS CARRERAS
-  teaser: Alstom knows that employee empowerment is crucial to its success
-  abstract: Alstom knows that employee empowerment is crucial to its success and continues to strengthen its culture by promoting diversity and entrepreneurial spirit with a fundamental commitment to integrity and high ethical business standards and practices.
-  stand: S/A
+#- siteurl: https://www.alstom.com/
+#  logourl: images/companies/alstom.jpg
+#  name: Alstom
+#  carreras: TODAS LAS CARRERAS
+#  teaser: Alstom knows that employee empowerment is crucial to its success
+#  abstract: Alstom knows that employee empowerment is crucial to its success and continues to strengthen its culture by promoting diversity and entrepreneurial spirit with a fundamental commitment to integrity and high ethical business standards and practices.
+#  stand: S/A
 
 - siteurl: https://www.aspentech.com/en/careers
   logourl: images/companies/aspentech.PNG
@@ -112,7 +112,7 @@ companies:
   stand: S/A
    
 - siteurl: https://www.gm.com.mx/corporativo/empleo_gm/
-  logourl: images/companies/gm.png
+  logourl: images/companies/gm2.png
   name: General Motors
   carreras: TODAS LAS CARRERAS
   teaser: Conoce nuestras áreas de desarrollo y encuentra información acerca de nuestro proceso de selección.
