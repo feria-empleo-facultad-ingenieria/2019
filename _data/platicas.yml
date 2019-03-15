@@ -5,12 +5,12 @@ platicas:
   conferencia_nombre: Reclutamiento General Motors
   conferencia_hora: 12:00 a.m. – 2:00 p.m.
   conferencia_lugar: Auditorio Javier Barros Sierra
-  conferencia_abstract: Goldcorp es una de las empresas productoras de oro de más rápido crecimiento del mundo.
-  conferencia_empresa: Goldcorp
+  conferencia_abstract:  Conoce nuestras áreas de desarrollo y encuentra información acerca de nuestro proceso de selección.
+  conferencia_empresa: GM
   conferencia_fecha: 8 Abril 2019
 
-- conferencista_foto: #
-  conferencista_linkedin: #
+- conferencista_foto: images/companies/pg.jpg
+  conferencista_linkedin: Procter & Gamble
   conferencista_nombre: Por confirmar
   conferencia_nombre: Reclutamiento Procter & Gamble
   conferencia_hora: 2:00 p.m. – 4:00 p.m.
@@ -19,8 +19,8 @@ platicas:
   conferencia_empresa: Procter & Gamble
   conferencia_fecha: 8 Abril 2019
 
-- conferencista_foto: #
-  conferencista_linkedin: #
+- conferencista_foto: images/companies/sacyr.jpg
+  conferencista_linkedin: Sacyr
   conferencista_nombre: Por confirmar
   conferencia_nombre: Reclutamiento Sacyr
   conferencia_hora: 4:00 p.m. – 6:00 p.m.
@@ -29,8 +29,8 @@ platicas:
   conferencia_empresa: Sacyr
   conferencia_fecha: 8 Abril 2019
 
-- conferencista_foto: #
-  conferencista_linkedin: #
+- conferencista_foto: images/companies/zte.png
+  conferencista_linkedin: ZTE
   conferencista_nombre: Por confirmar
   conferencia_nombre: Reclutamiento ZTE
   conferencia_hora: 4:00 p.m. – 6:00 p.m.
