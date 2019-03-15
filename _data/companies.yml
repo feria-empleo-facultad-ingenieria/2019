@@ -175,8 +175,8 @@ companies:
   abstract: INROADS de México, A.C. es una organización no lucrativa que desde 1996 está dedicada a detectar y formar talento entre jóvenes universitarios de bajos recursos económicos. Ofrecemos un programa de formación integral en alianza con empresas altamente reconocidas impulsando el desarrollo personal y profesional de los jóvenes.
   stand: S/A
 
-- siteurl: https://kionetworks.com/trabaja-en-kio
-  logourl: images/companies/kio.png
+- siteurl: https://kionetworks.com
+  logourl: images/companies/kio2.png
   name: kionetworks
   carreras: TODAS LAS CARRERAS
   teaser: Somos una empresa fundada en 2002, con capital 100% mexicano. Ofrecemos un amplio portafolio de infraestructuras 
@@ -189,6 +189,14 @@ companies:
   carreras: TODAS LAS CARRERAS
   teaser: Management Solutions es una firma internacional de consultoría, centrada en el asesoramiento
   abstract: Management Solutions es una firma internacional de consultoría, centrada en el asesoramiento de negocio, finanzas, riesgos, organización, tecnología y procesos.
+  stand: S/A
+
+- siteurl: https://www.mobiik.com/careers
+  logourl: images/companies/mobiik.png
+  name: Mobiik
+  carreras: TODAS LAS CARRERAS
+  teaser: Mobiik is a daring and dynamic company that remains at the forefront of technology and its trends.
+  abstract: Mobiik is a daring and dynamic company that remains at the forefront of technology and its trends. We also focus on the selection and recruitment of collaborators, so that we can count on the very best.
   stand: S/A
 
 - siteurl: https://www.oracle.com/corporate/careers/
