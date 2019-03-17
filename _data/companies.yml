@@ -6,6 +6,7 @@ companies:
   teaser: Accenture is a leading global professional services company, providing
   abstract: Accenture is a leading global professional services company, providing a broad range of services and solutions in strategy, consulting, digital, technology and operations.
   stand: S/A
+  height1: 100px
 
 #- siteurl: https://www.alstom.com/
 #  logourl: images/companies/alstom.jpg
@@ -22,6 +23,7 @@ companies:
   teaser: While our impact on the world is big, we offer many of the advantages of a smaller organization.
   abstract: While our impact on the world is big, we offer many of the advantages of a smaller organization. Every employee has a real opportunity to make important contributions that directly benefit our customers and drive our success.
   stand: S/A
+  height1: 100px
 
 - siteurl: https://www.audi.com/corporate/en/careers.html
   logourl: images/companies/audi.png
