@@ -137,6 +137,14 @@ companies:
   abstract: El pensamiento emprendedor es parte de nuestra identidad. Únete a nuestros equipos diversos y globales y comienza cada día convirtiendo tus ideas en realidad. Puedes elegir entre innumerables oportunidades y desarrollar tu carrera al mismo tiempo que das forma activamente a las marcas y tecnologías de Henkel.
   stand: S/A
 
+- siteurl: https://www.hilti.com.mx/
+  logourl: images/companies/hilti.jpg
+  name: Hilti
+  carreras: TODAS LAS CARRERAS
+  teaser: ¿Buscas empleo? Consulta nuestras vacantes de empleo, las cuales puedes filtrar ya sea por área o país. 
+  abstract: ¿Buscas empleo? Consulta nuestras vacantes de empleo, las cuales puedes filtrar ya sea por área o país. Si no consigues el trabajo de tus sueños, sigue buscando, ya que actualizamos nuestra información con regularidad, o también puedes enviarnos tu postulación.
+  stand: S/A
+
 - siteurl: https://www.honeywell.com/careers
   logourl: images/companies/honeywell.png
   name: Honeywell
