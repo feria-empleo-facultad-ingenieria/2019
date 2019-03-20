@@ -127,58 +127,59 @@ layout: default_feria
 			</div>
 		</div>
 		
-
 		<div class="row">
-			<div class="card-deck mb-12 text-center">
-				<div class="card mb-4 shadow-sm">
-					<div class="card-header">
-						<h4 class="text-primary">
-							<i class="icon-clock"></i>
-							<strong>{{ site.data.generalinfo.horarios_titulo }}</strong>
-						</h4>
+			<div class="col-12">
+				<div class="card-deck mb-12 text-center">
+					<div class="card mb-4 shadow-sm">
+						<div class="card-header">
+							<h4 class="text-primary">
+								<i class="icon-clock"></i>
+								<strong>{{ site.data.generalinfo.horarios_titulo }}</strong>
+							</h4>
+						</div>
+						<div class="card-body">
+							<p>{{ site.data.generalinfo.horarios_noticia01 }}</p>
+							<p>{{ site.data.generalinfo.horarios_noticia02 }}</p>
+							<p>
+								<a href="horarios.html" class="btn btn-outline-primary w-100" role="button">
+									{{ site.data.generalinfo.horarios_texto_boton }}
+								</a>
+							</p>
+						</div>
 					</div>
-					<div class="card-body">
-						<p>{{ site.data.generalinfo.horarios_noticia01 }}</p>
-						<p>{{ site.data.generalinfo.horarios_noticia02 }}</p>
-						<p>
-							<a href="horarios.html" class="btn btn-outline-primary w-100" role="button">
-								{{ site.data.generalinfo.horarios_texto_boton }}
-							</a>
-						</p>
+					<div class="card mb-4 shadow-sm">
+						<div class="card-header">
+							<h4  class="text-primary">
+								<i class="icon-users2"></i>
+								<strong>{{ site.data.generalinfo.platicas_titulo }}</strong>
+							</h4>
+						</div>
+						<div class="card-body">
+							<p>{{ site.data.generalinfo.platicas_noticia01 }}</p>
+							<p>{{ site.data.generalinfo.platicas_noticia02 }}</p>
+							<p>
+								<a href="platicas.html" class="btn btn-outline-primary w-100" role="button">
+									{{ site.data.generalinfo.platicas_texto_boton }}
+								</a>
+							</p>
+						</div>
 					</div>
-				</div>
-				<div class="card mb-4 shadow-sm">
-					<div class="card-header">
-						<h4  class="text-primary">
-							<i class="icon-users2"></i>
-							<strong>{{ site.data.generalinfo.platicas_titulo }}</strong>
-						</h4>
-					</div>
-					<div class="card-body">
-						<p>{{ site.data.generalinfo.platicas_noticia01 }}</p>
-						<p>{{ site.data.generalinfo.platicas_noticia02 }}</p>
-						<p>
-							<a href="platicas.html" class="btn btn-outline-primary w-100" role="button">
-								{{ site.data.generalinfo.platicas_texto_boton }}
-							</a>
-						</p>
-					</div>
-				</div>
-				<div class="card mb-4 shadow-sm">
-					<div class="card-header">
-						<h4 class="text-primary">
-							<i class="icon-map"></i>
-							<strong>{{ site.data.generalinfo.stands_titulo }}</strong>
-						</h4>
-					</div>
-					<div class="card-body">
-						<p>{{ site.data.generalinfo.stands_noticia01 }}</p>
-						<p>{{ site.data.generalinfo.stands_noticia02 }}</p>
-						<p>
-							<a href="stands.html"  class="btn btn-outline-primary w-100" role="button">
-								{{ site.data.generalinfo.stands_texto_boton }}
-							</a>
-						</p>
+					<div class="card mb-4 shadow-sm">
+						<div class="card-header">
+							<h4 class="text-primary">
+								<i class="icon-map"></i>
+								<strong>{{ site.data.generalinfo.stands_titulo }}</strong>
+							</h4>
+						</div>
+						<div class="card-body">
+							<p>{{ site.data.generalinfo.stands_noticia01 }}</p>
+							<p>{{ site.data.generalinfo.stands_noticia02 }}</p>
+							<p>
+								<a href="stands.html"  class="btn btn-outline-primary w-100" role="button">
+									{{ site.data.generalinfo.stands_texto_boton }}
+								</a>
+							</p>
+						</div>
 					</div>
 				</div>
 			</div>
@@ -220,16 +221,18 @@ layout: default_feria
 					<iframe class="card-img-right flex-auto d-none d-md-block" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3764.8721809638523!2d-99.1844845!3d19.331351999999995!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x85ce0020ce0c7dc9%3A0xa56d188ae95369f0!2sUNAM+Facultad+de+Ingenier%C3%ADa!5e0!3m2!1ses!2smx!4v1441848297372" frameborder="0" style="border:0" allowfullscreen></iframe>
 				</div>
 			</div>
-			<div class="col-sm-4" data-easytabs="true">
-				<div class="card flex-md-row mb-4 box-shadow">
-					<div class="card-body d-flex flex-column align-items-start">
+			<div class="col-sm-4">
+				<div class="card mb-4 shadow-sm">
+					<div class="card-header">
 						<h3 class="mb-0">
 							<strong class="d-inline-block mb-2 text-primary">{{ site.data.generalinfo.noticias }}</strong>
 						</h3>
-						<div class="panels">
-							<div id="t1"><blockquote><p>{{ site.data.generalinfo.noticia01 }}</p></blockquote></div>
-							<div id="t1"><blockquote><p>{{ site.data.generalinfo.noticia02 }}</p></blockquote></div>
-							<div id="t1"><blockquote><p>{{ site.data.generalinfo.noticia03 }}</p></blockquote></div>
+					</div>
+					<div class="card-body">
+						<div class="col-12">
+							<p>{{ site.data.generalinfo.noticia01 }}</p>
+							<p>{{ site.data.generalinfo.noticia02 }}</p>
+							<p>{{ site.data.generalinfo.noticia03 }}</p>
 						</div>
 					</div>
 				</div>
