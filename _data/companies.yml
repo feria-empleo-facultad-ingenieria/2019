@@ -87,7 +87,7 @@ companies:
   height: 80px
 
 - siteurl: http://www.dgoae.unam.mx/index.html
-  logourl: images/companies/dgoae.png
+  logourl: images/companies/DGOAE.png
   name: DGOAE
   carreras: TODAS LAS CARRERAS
   teaser: La misión de la DGOAE es coadyuvar a la formación integral de los alumnos, a través de propiciar su desarrollo personal, académico y profesional durante su tránsito por la Universidad
@@ -381,4 +381,4 @@ companies:
   abstract: ZTE is a world-leading comprehensive telecommunication solution provider, the largest telecommunication equipment listed company, as well as a top ranking ICT solutions provider.
   stand: S/A
   height1: 30px
-  height: 50px
+  height: 80px

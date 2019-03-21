@@ -101,3 +101,6 @@ AZUL: #185ec6
 .even2 {
   margin-top: 53px;
 }
+.imggrow:hover{
+  transform: scale(1.5);
+}

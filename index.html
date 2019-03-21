@@ -249,8 +249,10 @@ layout: default_feria
 					<div class="card-deck mb-3 text-center">
 					{% endif %}
 						<div class="card mb-4 shadow-sm">
-							<div class="card-body card-marcas" >
-								<img src="{{ company.logourl }}" style="vertical-align: middle" height="{{ company.height1 }}" title="{{ company.name }}">
+							<div class="card-body card-marcas imggrow"  >
+								<a target="_blank"  href="{{ company.siteurl }}">
+									<img src="{{ company.logourl }}" style="vertical-align: middle" height="{{ company.height1 }}" title="{{ company.teaser }}">
+								</a>
 							</div>
 						</div>
 					{% if no_empresa == no_columnas %}
