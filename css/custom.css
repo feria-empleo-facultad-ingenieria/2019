@@ -104,3 +104,13 @@ AZUL: #185ec6
 .imggrow:hover{
   transform: scale(1.5);
 }
+div.panelcustom {
+  background-color: #ffffff !important;
+  border: 1px #cd171e solid !important;
+}
+div.panelcustom a{
+  padding: 0px !important;
+  margin:0px !important;
+  height: 40px !important;
+  line-height: 0px !important;
+}
