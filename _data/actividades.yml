@@ -3,41 +3,41 @@ actividades:
   dia: 8
   nombre: Inauguración de la Feria del Empleo 2019
   abstract: Con la presencia del Director de la Facultad
-  hora: 12:00 a.m. - 12:15 p.m.
+  hora: 12:00 - 12:15 
   lugar: Edificio principal de la Facultad de Ingeniería
   recinto: Vestibulo del Auditorio Javier Barros Sierra
 
 - mes: ABR 
   dia: 8
   nombre: Reclutamiento General Motors
-  hora: 12:15 a.m. – 2:00 p.m.
+  hora: 12:15 – 14:00 
   lugar: a
   recinto: Auditorio Javier Barros Sierra
 
 - mes: ABR 
   dia: 8
   nombre: Reclutamiento Procter & Gamble
-  hora: 2:00 p.m. – 4:00 p.m.
+  hora: 14:00 – 16:00
   lugar: a
   recinto: Auditorio Javier Barros Sierra
 
 - mes: ABR 
   dia: 8
   nombre: Reclutamiento Sacyr
-  hora: 4:00 p.m. – 6:00 p.m.
+  hora: 16:00 – 18:00
   lugar: a
   recinto: Auditorio Javier Barros Sierra
 
 - mes: ABR 
   dia: 9
   nombre: Plática Ica Fluor
-  hora: 2:00 p.m. – 4:00 p.m.
+  hora: 14:00 – 16:00
   lugar: a
   recinto: Auditorio Javier Barros Sierra
 
 - mes: ABR 
   dia: 9
   nombre: Reclutamiento ZTE
-  hora: 4:00 p.m. – 6:00 p.m.
+  hora: 16:00 – 18:00
   lugar: a
   recinto: Auditorio Javier Barros Sierra
