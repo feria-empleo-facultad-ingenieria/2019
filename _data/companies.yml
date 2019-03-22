@@ -8,6 +8,7 @@ companies:
   stand: S/A
   height1: 40px
   height: 80px
+
 #- siteurl: https://www.alstom.com/
 #  logourl: images/companies/alstom.jpg
 #  name: Alstom
@@ -86,7 +87,7 @@ companies:
   height1: 40px
   height: 80px
 
-- siteurl: http://www.dgoae.unam.mx/index.html
+- siteurl: http://www.dgoae.unam.mx
   logourl: images/companies/dgoae.png
   name: DGOAE
   carreras: TODAS LAS CARRERAS
@@ -303,9 +304,9 @@ companies:
   height1: 40px
   height: 80px
  
-- siteurl: http://sefi.org.mx/index/nosotros
+- siteurl: http://sefi.org.mx
   logourl: images/companies/sefi.png
-  name: Sefi
+  name: SEFI
   carreras: TODAS LAS CARRERAS
   teaser: El 19 de septiembre de 1962, se fundó la Sociedad de Exalumnos de la Facultad de Ingeniería, A.C. (SEFI)
   abstract: En respuesta a la invitación del Rector Ignacio Chávez, el 19 de septiembre de 1962, se fundó la Sociedad de Exalumnos de la Facultad de Ingeniería, A.C. (SEFI). La cual tiene como objetivo colaborar moral y materialmente con la Universidad y con la Facultad de Ingeniería, organismos que tienen como fines la docencia, la investigación y la difusión de la cultura. Hoy en día, representa un ejemplo a seguir para toda la comunidad universitaria en apoyo a su Alma Mater.

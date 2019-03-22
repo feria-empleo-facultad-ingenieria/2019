@@ -1,9 +1,9 @@
 platicas:
 - conferencista_foto: images/companies/gm2.png
   conferencista_linkedin: General Motors
-  conferencista_nombre: Por confirmar
+  conferencista_nombre: General Motors
   conferencia_nombre: Reclutamiento General Motors
-  conferencia_hora: 12:00 a.m. – 2:00 p.m.
+  conferencia_hora: 12:00 – 14:00
   conferencia_lugar: Auditorio Javier Barros Sierra
   conferencia_abstract:  Conoce nuestras áreas de desarrollo y encuentra información acerca de nuestro proceso de selección.
   conferencia_empresa: GM
@@ -11,9 +11,9 @@ platicas:
 
 - conferencista_foto: images/companies/pg.jpg
   conferencista_linkedin: Procter & Gamble
-  conferencista_nombre: Por confirmar
+  conferencista_nombre: Procter & Gamble
   conferencia_nombre: Reclutamiento Procter & Gamble
-  conferencia_hora: 2:00 p.m. – 4:00 p.m.
+  conferencia_hora: 14:00 – 16:00
   conferencia_lugar: Auditorio Javier Barros Sierra
   conferencia_abstract: It’s something everyone experiences when they join a new company.
   conferencia_empresa: Procter & Gamble
@@ -21,9 +21,9 @@ platicas:
 
 - conferencista_foto: images/companies/sacyr.jpg
   conferencista_linkedin: Sacyr
-  conferencista_nombre: Por confirmar
+  conferencista_nombre: Sacyr
   conferencia_nombre: Reclutamiento Sacyr
-  conferencia_hora: 4:00 p.m. – 6:00 p.m.
+  conferencia_hora: 16:00 – 18:00
   conferencia_lugar: Auditorio Javier Barros Sierra
   conferencia_abstract: En Sacyr somos una Grupo global, con una fuerte vocación internacional e importantes y ambiciosos objetivos.
   conferencia_empresa: Sacyr
@@ -32,8 +32,8 @@ platicas:
 - conferencista_foto: images/companies/icafluor.jpg
   conferencista_linkedin: Ica Fluor
   conferencista_nombre: Ica Fluor
-  conferencia_nombre: Plática Ica Fluor
-  conferencia_hora: 2:00 p.m. – 4:00 p.m.
+  conferencia_nombre: Reclutamiento Ica Fluor
+  conferencia_hora: 14:00 – 16:00
   conferencia_lugar: Auditorio Javier Barros Sierra
   conferencia_abstract:  ICA-Fluor Daniel, S. de R.L. de C.V. (ICA Fluor) es una empresa conjunta formada por el grupo mexicano de construcción e ingeniería ICA
   conferencia_empresa: Ica Fluor
@@ -41,12 +41,10 @@ platicas:
 
 - conferencista_foto: images/companies/zte.png
   conferencista_linkedin: ZTE
-  conferencista_nombre: Por confirmar
+  conferencista_nombre:  ZTE
   conferencia_nombre: Reclutamiento ZTE
-  conferencia_hora: 4:00 p.m. – 6:00 p.m.
+  conferencia_hora: 14:00 – 16:00
   conferencia_lugar: Auditorio Javier Barros Sierra
   conferencia_abstract: ZTE is a world-leading comprehensive telecommunication solution
   conferencia_empresa: ZTE
   conferencia_fecha: 9 Abril 2019
-
-
