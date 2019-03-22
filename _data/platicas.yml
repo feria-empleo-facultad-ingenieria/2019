@@ -29,6 +29,16 @@ platicas:
   conferencia_empresa: Sacyr
   conferencia_fecha: 8 Abril 2019
 
+- conferencista_foto: images/companies/icafluor.jpg
+  conferencista_linkedin: Ica Fluor
+  conferencista_nombre: Ica Fluor
+  conferencia_nombre: Plática Ica Fluor
+  conferencia_hora: 2:00 p.m. – 4:00 p.m.
+  conferencia_lugar: Auditorio Javier Barros Sierra
+  conferencia_abstract:  ICA-Fluor Daniel, S. de R.L. de C.V. (ICA Fluor) es una empresa conjunta formada por el grupo mexicano de construcción e ingeniería ICA
+  conferencia_empresa: Ica Fluor
+  conferencia_fecha: 9 Abril 2019
+
 - conferencista_foto: images/companies/zte.png
   conferencista_linkedin: ZTE
   conferencista_nombre: Por confirmar

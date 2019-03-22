@@ -48,11 +48,11 @@ layout: default_feria
                 <tbody>
                   {% for company in site.data.companies.companies %}
                   <tr class="btn-reveal-trigger"></tr>
-                    <th class="align-middle">
+                    <td class="align-middle text-center">
                       <a href="{{ company.siteurl }}">
-                        <img class="mr-3" src="{{ company.logourl}}" height="30px" alt="{{ company.name }}">
+                        <img class="mr-3" src="{{ company.logourl}}" height="40px" alt="{{ company.name }}">
                       </a>
-                    </th>
+                    </td>
                     <td class="align-middle">{{ company.name  }}</td>
                     <td class="align-middle">&nbsp;</td>
                     <td class="align-middle">
