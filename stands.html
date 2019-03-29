@@ -36,39 +36,65 @@ layout: default_feria
           </div>
           <div class="card-body p-0">
             <div class="table-responsive">
-              <table class="table table-sm mb-0 table-dashboard fs--1">
-                <thead class="bg-200 text-900">
-                  <tr>
-                    <th></th>
-                    <th>Empresa</th>
-                    <th>Stand</th>
-                    <th></th>
-                  </tr>
-                </thead>
-                <tbody>
-                  {% for company in site.data.companies.companies %}
-                  <tr class="btn-reveal-trigger"></tr>
-                    <td class="align-middle text-center">
-                      <a href="{{ company.siteurl }}">
-                        <img class="mr-3" src="{{ company.logourl}}" height="40px" alt="{{ company.name }}">
-                      </a>
-                    </td>
-                    <td class="align-middle">{{ company.name  }}</td>
-                    <td class="align-middle">&nbsp;</td>
-                    <td class="align-middle">
-                      <div class="dropdown text-sans-serif">
-                          <a href="#" onclick="javascript:return false;" title="{{ company.name }}" data-toggle="popover" data-trigger="focus" data-content="{{ company.abstract }}">más info...</a>
-                      </div>
-                    </td>
-                  </tr>
-                  {% endfor %}
-                </tbody>
-              </table>
+              <div class="row">
+                <div class="col-6">
+                  <table class="table table-sm mb-0 table-dashboard fs--1">
+                      <thead class="bg-200 text-900">
+                        <tr>
+                          <th></th>
+                          <th>Empresa</th>
+                        </tr>
+                      </thead>
+                      <tbody>
+                        {% for company in site.data.companies.companies1 %}
+                        <tr class="btn-reveal-trigger"></tr>
+                          <td class="align-middle text-center">
+                            <a href="{{ company.siteurl }}">
+                              <img class="mr-3" src="{{ company.logourl}}" height="40px" alt="{{ company.name }}">
+                            </a>
+                          </td>
+                          <td class="align-middle">
+                            <div class="dropdown text-sans-serif">
+                                <a href="#" onclick="javascript:return false;" title="{{ company.name }}" data-toggle="popover" data-trigger="focus" data-content="{{ company.abstract }}">{{ company.name  }}</a>
+                            </div>
+                          </td>
+                        </tr>
+                        {% endfor %}
+                      </tbody>
+                  </table>
+                </div>
+                <div class="col-6">
+                  <table class="table table-sm mb-0 table-dashboard fs--1">
+                    <thead class="bg-200 text-900">
+                      <tr>
+                        <th></th>
+                        <th>Empresa</th>
+                      </tr>
+                    </thead>
+                    <tbody>
+                      {% for company in site.data.companies.companies2 %}
+                      <tr class="btn-reveal-trigger"></tr>
+                        <td class="align-middle text-center">
+                          <a href="{{ company.siteurl }}">
+                            <img class="mr-3" src="{{ company.logourl}}" height="40px" alt="{{ company.name }}">
+                          </a>
+                        </td>
+                        <td class="align-middle">
+                          <div class="dropdown text-sans-serif">
+                              <a href="#" onclick="javascript:return false;" title="{{ company.name }}" data-toggle="popover" data-trigger="focus" data-content="{{ company.abstract }}">{{ company.name  }}</a>
+                          </div>
+                        </td>
+                      </tr>
+                      {% endfor %}
+                    </tbody>
+                  </table>
+                </div>
+              </div>
             </div>
           </div>
         </div>
-  </div>
-</div>
+      </div>
+    </div>
 <script>
     $(document).ready(function(){
       $('[data-toggle="popover"]').popover();   
