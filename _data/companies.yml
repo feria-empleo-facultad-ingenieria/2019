@@ -27,6 +27,16 @@ companies:
   height1: 30px
   height: 80px
 
+- siteurl: http://www.ateb.mx/
+  logourl: images/companies/ateb.png
+  name: ATEB
+  carreras: TODAS LAS CARRERAS
+  teaser: Optimiza y automatiza tus procesos con nuestras distintas soluciones de Factura Electrónica, EDI, digitalización de documentos, asesorías y más.
+  abstract: Optimiza y automatiza tus procesos con nuestras distintas soluciones de Factura Electrónica, EDI, digitalización de documentos, asesorías y más.
+  stand: S/A
+  height1: 40px
+  height: 80px
+
 - siteurl: https://www.audi.com/corporate/en/careers.html
   logourl: images/companies/audi.png
   name: Audi
