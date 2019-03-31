@@ -68,7 +68,7 @@ companies:
   height: 80px
 
 - siteurl: http://www.ciadetalentos.com.mx/
-  logourl: images/companies/ciatalentos.jpg
+  logourl: images/companies/cia2.jpg
   name: Cia de Talentos
   carreras: TODAS LAS CARRERAS
   teaser: Conectamos a los mejores talentos con las mejores oportunidades
@@ -335,13 +335,13 @@ companies:
   height: 80px
  
 - siteurl: http://canalempleo.sacyr.com/
-  logourl: images/companies/sacyr.jpg
+  logourl: images/companies/sacyr2.jpg
   name: Sacyr
   carreras: TODAS LAS CARRERAS
   teaser: En Sacyr somos una Grupo global, con una fuerte vocación internacional e importantes y
   abstract: En Sacyr somos una Grupo global, con una fuerte vocación internacional e importantes y ambiciosos objetivos. Actualmente llevamos a cabo proyectos innovadores de alto valor en 28 países en los 5 continentes y buscamos continuamente nuevas posibilidades de crecimiento fuera de nuestras fronteras. Trabajamos con un espíritu global en el que la multiculturalidad nos enriquece y creemos que no hay fronteras para el talento.
   stand: S/A
-  height1: 40px
+  height1: 25px
   height: 80px
  
 - siteurl: http://sefi.org.mx
@@ -515,7 +515,7 @@ companies1:
   height: 80px
 
 - siteurl: http://www.ciadetalentos.com.mx/
-  logourl: images/companies/ciatalentos.jpg
+  logourl: images/companies/cia2.jpg
   name: Cia de Talentos
   carreras: TODAS LAS CARRERAS
   teaser: Conectamos a los mejores talentos con las mejores oportunidades
@@ -783,7 +783,7 @@ companies2:
   height: 80px
  
 - siteurl: http://canalempleo.sacyr.com/
-  logourl: images/companies/sacyr.jpg
+  logourl: images/companies/sacyr2.jpg
   name: Sacyr
   carreras: TODAS LAS CARRERAS
   teaser: En Sacyr somos una Grupo global, con una fuerte vocación internacional e importantes y
