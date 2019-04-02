@@ -67,6 +67,16 @@ companies:
   height1: 40px
   height: 80px
 
+- siteurl:  https://www.bluemessaging.com/
+  logourl: images/companies/bluemessaging.svg
+  name: Bluemessaging
+  carreras: TODAS LAS CARRERAS
+  teaser: Somos una StartUp internacional que nació en 2009 con el objetivo de conectar organizaciones con personas a través de múltiples canales digitales y haciendo uso de la innovación basada en Inteligencia Artificial. 
+  abstract: Somos una StartUp internacional que nació en 2009 con el objetivo de conectar organizaciones con personas a través de múltiples canales digitales y haciendo uso de la innovación basada en Inteligencia Artificial. Generamos alianzas estratégicas con centros de investigación y empresas líderes del ecosistema digital, incorporando los últimos avances en tecnología que permiten a nuestros clientes acceder a las más recientes innovaciones tecnológicas.
+  stand: S/A
+  height1: 30px
+  height: 80px
+
 - siteurl: http://www.ciadetalentos.com.mx/
   logourl: images/companies/cia2.jpg
   name: Cia de Talentos
@@ -437,7 +447,7 @@ companies:
 - siteurl: https://www.zte.com.cn/global/
   logourl: images/companies/zte.png
   name: ZTE
-  carreras: TODAS LAS CARRERAS
+  carreras: Ingeniería en Computación | Ingeniería Eléctrica Electrónica | Ingeniería en Telecomunicaciones | Ingeniería Mecatrónica |Informática | Matematicas Aplicadas a la Computación
   teaser: ZTE is a world-leading comprehensive telecommunication solution 
   abstract: ZTE is a world-leading comprehensive telecommunication solution provider, the largest telecommunication equipment listed company, as well as a top ranking ICT solutions provider.
   stand: S/A
@@ -510,6 +520,16 @@ companies1:
   carreras: TODAS LAS CARRERAS
   teaser: We are searching for the best talent, yours. We want to share 
   abstract: We are searching for the best talent, yours. We want to share with you the values that makes us strong and allow us to keep creating opportunities through empathy and integrity, while thinking big and always putting the customer first. We are looking for committed professionals who work as one team, like you.
+  stand: S/A
+  height1: 40px
+  height: 80px
+
+- siteurl:  https://www.bluemessaging.com/
+  logourl: images/companies/bluemessaging.svg
+  name: Bluemessaging
+  carreras: TODAS LAS CARRERAS
+  teaser: Somos una StartUp internacional que nació en 2009 con el objetivo de conectar organizaciones con personas a través de múltiples canales digitales y haciendo uso de la innovación basada en Inteligencia Artificial. 
+  abstract: Somos una StartUp internacional que nació en 2009 con el objetivo de conectar organizaciones con personas a través de múltiples canales digitales y haciendo uso de la innovación basada en Inteligencia Artificial. Generamos alianzas estratégicas con centros de investigación y empresas líderes del ecosistema digital, incorporando los últimos avances en tecnología que permiten a nuestros clientes acceder a las más recientes innovaciones tecnológicas.
   stand: S/A
   height1: 40px
   height: 80px
