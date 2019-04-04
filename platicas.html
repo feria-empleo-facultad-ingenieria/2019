@@ -34,14 +34,17 @@ layout: default_feria
               <div class="col">
                 <div class="media align-items-center">
                   <div class="avatar avatar-2xl status-online">
-                    <img src="{{ platica.conferencista_foto }}" width="80" alt="">
+                    <img src="{{ platica.conferencista_foto }}" width="120" alt="">
                   </div>
                   <div class="media-body ml-2">
                     <p class="mb-0">
-                      <a class="font-weight-semi-bold" href="{{ platica.conferencista_linkedin }}">
-                        {{ platica.conferencista_nombre }}
-                      </a> Conferencia: <a href="#">{{ platica.conferencia_nombre }}</a></p>
-                    <p class="mb-0 fs--1">{{ platica.conferencia_hora }} • {{ platica.conferencia_lugar }} • <i class="icon-world"></i></p>
+                      <table>
+                        <tr><td>Ponente:    </td><td><strong>{{ platica.conferencista_nombre }}</strong></td></tr>
+                        <tr><td>Conferencia:</td><td><strong>{{ platica.conferencia_nombre }}</strong></td></tr>
+                        <tr><td>Recinto:    </td><td><strong>{{ platica.conferencia_lugar }}</strong></td></tr>
+                        <tr><td>Horario:    </td><td><strong>{{ platica.conferencia_hora }} • <i class="icon-world"></i></strong></td></tr>
+                      </table>
+                    </p>
                   </div>
                 </div>
               </div>
